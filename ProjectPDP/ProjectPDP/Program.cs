@@ -14,6 +14,7 @@ public class Program
             Console.WriteLine("5. Service");
             Console.WriteLine("6. Exit");
             Console.Write("Choose an option: ");
+
             var choice = Console.ReadLine();
             switch (choice)
             {
